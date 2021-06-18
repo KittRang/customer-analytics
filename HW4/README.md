@@ -76,3 +76,43 @@ Reactivation campaigns are needed but must be carefully utilized.
 <p align="center"><img src="images/repurchase.jpg" height = "450"></p>
 
 <p><h1>THE TOOLS</h1>
+
+Let me break it down like so
+<p align="center"><img src="images/supportTools.jpg" height = "450"></p>
+
+Like I said earlier, the most trending channel for Loyalty Platform is currently LINE, so the measurement of our success relies on data from the LINE portal which provides 
+<h3>LINE PORTAL</h3>
+<ul>
+  <li>Followers count</li>
+  <li>Block Rate</li>
+  <li>Content response rate</li>
+  <li>Exploratory data on followers profile</li>
+</ul>
+
+<h3>Google Analytics(GA)</h3>
+The bare minimum of gathering the interest of the users. Loyalty platforms focusing on redeem transactions often relied on the redemption data and forget that redemption does not necessarily means that the rewards are what the user truely wants. It is what they want the most out of the resource they have available (points).
+With GA, we can see what the user considered to be viable rewards before committing their points.
+<ul>
+  <li>Behavior Flow (How the users navigate the platform)</li>
+  <li>Time spent on each page (Is 30 seconds really enough for looking through all the rewards catalogue?)</li>
+  <li>What are their options (Back and Forth pageview data)</li>
+  <li>Bounce Rate, Exit Rate</li>
+</ul>
+
+<h3>EDM</h3>
+After knowing all that, you need ways to communicate or remind the users that your platform still has a lot to offer if they keep participating or may be remind them to come back because you finally have a deal that they wont find elsewhere. May be you finally figured them out and decided to send out a <b> Holygrail of modern data driven marketing hype : Hyperpersonalized messages </b> Insert Hello, Timmy here.
+
+To do all that, you need EDM. 
+A good EDM enables the brand to communicate to a specific group of users through customized Text messages. A great EDM enables the brand to communicate using customized messages that fits the user preference after testing it through A/B testing and track their performance as well.
+
+<h3> More than Google Analytics</h3>
+The last tool is what most of the Loyalty platform are after. Some bought them, some developed them inhouse but the goal is the same.
+It is a Google Analytics that can linked each and every users back to your database of customers.
+The hyperpersonalization stage of layouts, of artwork A/B testings, of welcome messages when the user open the platform starts here.
+The data to be gained are massive.
+Hotjar is one.
+
+<h2>Final Note</h2>
+Retention Rates are what the brands are after, I mean acquisition cost are often more expensive that the cost of feeding them promotions right? And loyalty platform are what's hot right now due to the reach of internet and the CoVid quarantine keeping us all indoors. Online presence surges and so are the likely hood of information overload.
+Each brand has to come up with their own ways to talk to their customers and keeping them engage as long as possible.
+As a customer, we have a lot more options now. So weighting the opportunity cost is as simple as Googling the brand name. There's no more need to feel dissatified and stuck with a brand you dont believe in.
