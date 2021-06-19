@@ -34,4 +34,13 @@ Basically I prioritized the wake category first and sleep category second.
 There are also discrepencies for "Work" category as some people put details into their travel such as leaving for work, reached the workplace, started working.
   
 What I did here is I take the <i>min(time start)</i> of work category since the moment the thought of work comes into your mind, the work starts and the relaxation ends. I also did similar thing with "Home/Off work"
+  
+After all the keywords are searched for, we create additional column of boolean flag in order to make our Pivot easier.
+<p align="center"><img src="images/flag.jpg" height ="200"></p>
+Then we proceed to use Pivot to gain the min/max/average time on each of our categories.
 </p>
+
+<p><h2> Results</h2>
+
+So after Pivot, we'll get something along the line of this format for each activities
+<p align="center"><img src="images/initial.jpg" height ="200"></p>
