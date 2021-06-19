@@ -54,3 +54,4 @@ Once done, you should have something looking like this
 
 Which is a subset of CLV Dashboard
 <p align="center"><img src="data/CLV_ProductRec.png" height ="600"></p>
+https://github.com/KittRang/customer-analytics/tree/main/HW5#clv-dasdhboard
