@@ -41,4 +41,5 @@ I got the data for just about a week. The hindsight score is, at the end of the 
 Over time, the model should learn the preference of the users to achieve the highest precision when it comes to coffee type, while tweaking The Coffee element such as the sweetener, milk/cream amount to achieve the highest score taking into account the various inputs from activity band and smart phone. </p>
 
 <p><h2> Flowcharts </h2>
-
+In the end, it should be straight forward like so
+<p align="center"><img src="images/flowchart.jpg" height ="300"></p></p>
