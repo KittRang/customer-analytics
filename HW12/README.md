@@ -32,11 +32,13 @@ You need the miracle potion. You need it now. You opened a cabinet that then com
  
  This steps right here is the input as well as the feedback loop of our model.</p>
   
-  <p><h2>Actual Run</h2>
- <p align="center"><img src="images/input.jpg" height ="100"></p>
+<p><h2>Actual Run</h2>
+<p align="center"><img src="images/input.jpg" height ="100"></p>
 <p align="center"><img src="images/output.jpg" height ="100"></p>
 
 I got the data for just about a week. The hindsight score is, at the end of the day, the user actually give their coffee some thought and decided what they would rather have in the morning, heance, the hindsight. This serves as a feedback loop into the system. Then the user also note down the coffee score based on what they actually had in the morning.
 
-Over time, the model should learn the preference of the users to achieve the highest precision when it comes to coffee type, while tweaking The Coffee element such as the sweetener, milk/cream amount to achieve the highest score taking into account the various inputs from activity band and smart phone.
+Over time, the model should learn the preference of the users to achieve the highest precision when it comes to coffee type, while tweaking The Coffee element such as the sweetener, milk/cream amount to achieve the highest score taking into account the various inputs from activity band and smart phone. </p>
+
+<p><h2> Flowcharts </h2>
 
