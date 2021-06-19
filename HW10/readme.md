@@ -51,3 +51,6 @@ Once merge using union, the final table in the cube should look similar to this
 
 Once done, you should have something looking like this
 <p align="center"><img src="data/Graph.jpg" height ="400"></p>
+
+Which is a subset of CLV Dashboard
+<p align="center"><img src="data/CLV_ProductRec.png" height ="600"></p>
