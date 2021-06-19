@@ -23,3 +23,23 @@ Since the less frequent the activity, the higher priority it should have. The en
   <li>หลายเดือนครั้ง : 9</li>
   <li>แทบไม่ได้บริโภคเลย : 11</li>
 </ul>
+
+When graphed, the data for each variable should look similar to this,
+<p align="center"><img src="images/BoxPlot.jpg" height ="350"></p></p>
+<sub> I know I violated the rule of "Comes in Excel, deal with it in Excel here but I'll fix that right up</sub>
+
+Based on this graph alone, if your friends happened to be a guy and asked you to hang out with Entertainment Biz kind of theme, you should say yes since the median score of said activities are around only once a month. Compared to when most of your freinds are female, this is like once a week thing, pushing it off to next week should be fine.
+
+Once we do that with all of our activities, we get this
+<p align="center"><img src="images/Overview.jpg" height ="350"></p></p>
+
+So from all this, what should you make priorities for?
+<p align="center"><img src="images/Rare.jpg" height ="350"></p></p>
+
+Look friend, if there was a situation where your friends ask you to grab a drink at a Chinese restaurant while catching up on the latest movies and anime, take it.
+Because from the data here, and the Homework 3 data about how we spend our free time. Stats students, at least in this class, we dont have that much free time for a pint or two.
+
+Then what about those activities that you can make time for and keep pushing them off with feeling guilty about?
+<p align="center"><img src="images/Common.jpg" height ="350"></p></p>
+
+Local food, Netflix, Politics, and Research papers. Yeah we are definitely indoor people here.
