@@ -43,6 +43,8 @@ order by current_period  asc
 Notice that the Churn rate is missing. This is because I will be relying on summing up all of the New users each month as a running sum and deducting all other statuses later on within the BI engine.
 
 <i> (Running sum of New - Sum of All statuses) *-1 = Churn </i>
+
+<br>
 Once merge using union, the final table in the cube should look similar to this
 <p align="center"><img src="data/cube.jpg" height ="400"></p>
 </p>
