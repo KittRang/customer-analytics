@@ -1,4 +1,4 @@
-<p><h1>CLV Dasdhboard</h1>
+<p><h1>CLV Dashboard</h1>
 
 The CLV is about tracking your customers and use that to predict the overall health of your business.
 There are some KPI such as CLV (Sum of all money spent), Average Basket Size, Average Ticket Size, and the Churn rate.
